@@ -1,0 +1,6 @@
+Hello from our local AWS pipeline!
+
+This is our first file-processing test.
+We are using S3 for storage, SQS for messaging, Lambda for processing, and DynamoDB for metadata.
+
+Let's see if our pipeline works!

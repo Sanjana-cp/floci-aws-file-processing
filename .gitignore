@@ -1,0 +1,22 @@
+# Floci persistent storage
+data/
+
+# Generated Lambda package
+lambda/function.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Terraform files (if we use it later)
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Environment secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+
